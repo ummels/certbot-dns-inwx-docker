@@ -1,4 +1,4 @@
-# certbot-dns-inxw-docker
+# certbot-dns-inwx-docker
 
 Docker image for Certbot with the DNS Authenticator plugin for domains hosted on [INWX](https://www.inwx.de/)
 
